@@ -1,0 +1,9 @@
+oil
+grass
+auto
+job
+oil
+rest
+sadness
+grass
+oil
